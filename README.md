@@ -50,4 +50,5 @@ Mostrar los inventarios que tienen una cantidad entre 2 y 5, que se hayan vendid
 
 Mostrar las farmacias y todas los medicamentos con acción terapéutica analgésico.
 
-**Solucion**:[Solucion punto nuemro seis]()
+**Solucion**:[Solucion punto numero seis](commands/join_inventario_analgesico.sql)
+
