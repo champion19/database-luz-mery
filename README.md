@@ -36,7 +36,7 @@ Mostrar los medicamentos que en su nombre tiene más de dos palabras y adicional
 
 Mostrar las farmacias con la ciudad donde está ubicada, además los código postal rellenarlas a la izquierda hasta 50 con ‘\*+’ y a la derecha rellenarlas hasta 40 con ‘[]’.
 
-**Solucion**:[Solucion punto numero cuatro](commands/rpad%2Clpad%2Cjoin.sql)
+**Solucion**:[Solucion punto numero cuatro](commands/rpad_lpad_join.sql)
 
 # 5 - Punto numero cinco
 
@@ -44,7 +44,7 @@ Mostrar los inventarios que tienen una cantidad entre 2 y 5, que se hayan vendid
 
 **Nota**:en este punto la informacion de cantidad de inventarios entre 2 y 5 y la ciudad de Rionegro junto con la de los precios no se puede hacer, ya que no esta esa informacion.
 
-**Solucion**:[Solucion punto numero cinco](<commands/join%20%2Cwhere(inventario)>).sql)
+**Solucion**:[Solucion punto numero cinco](commands/join%20_where_inventario.sql)
 
 # 6 - punto numero seis
 

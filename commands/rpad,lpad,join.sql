@@ -1,2 +1,0 @@
-SELECT codigopostal, rpad(codigopostal,40,'*+') AS 'caracter hacia la derecha',lpad(codigopostal,50,'*+') AS 'caracter hacia la izquierda' FROM farmacia f 
-INNER JOIN ciudad ON f.ciudad_id = ciudad.id;
