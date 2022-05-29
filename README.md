@@ -70,4 +70,5 @@ Mostrar los laboratorios que surten las farmacias de Medellín.
 # 10 - punto numero 10
 Mostrar todas las farmacias que venden productos con la monodroga acetaminofén. 
 
+**Solucion**:[Solucion punto numero diezz](commands/join_farmacia_medicamento.sql)
 
