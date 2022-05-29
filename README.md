@@ -65,5 +65,5 @@ Mostrar todos los medicamentos que tienen en el inventario las diferentes farmac
 # 9 - punto numero nueve
 Mostrar los laboratorios que surten las farmacias de Medellín.
 
-**Solucion**:[Solucion punto numero nueve]()
+**Solucion**:[Solucion punto numero nueve](commands/join_like_where_medellin.sql)
 
