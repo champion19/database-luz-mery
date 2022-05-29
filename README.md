@@ -62,3 +62,8 @@ Mostrar todos los medicamentos que tienen en el inventario las diferentes farmac
 
 **Solucion**:[Solucion punto numero ocho](commands/join_medicamento_terapeutico.sql)
 
+# 9 - punto numero nueve
+Mostrar los laboratorios que surten las farmacias de Medellín.
+
+**Solucion**:[Solucion punto numero nueve]()
+
