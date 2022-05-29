@@ -44,9 +44,10 @@ Mostrar los inventarios que tienen una cantidad entre 2 y 5, que se hayan vendid
 
 **Nota**:en este punto la informacion de cantidad de inventarios entre 2 y 5 y la ciudad de Rionegro junto con la de los precios no se puede hacer, ya que no esta esa informacion.
 
-**Solucion**:[Solucion punto numero cinco](commands/join%20%2Cwhere.sql)
+**Solucion**:[Solucion punto numero cinco](<commands/join%20%2Cwhere(inventario)>).sql)
 
 # 6 - punto numero seis
-Mostrar las farmacias y todas los medicamentos con acción terapéutica analgésico. 
+
+Mostrar las farmacias y todas los medicamentos con acción terapéutica analgésico.
 
 **Solucion**:[Solucion punto nuemro seis]()
