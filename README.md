@@ -56,3 +56,9 @@ Mostrar las farmacias y todas los medicamentos con acción terapéutica analgés
 Mostrar el nombre del farmaceuta de cada farmacia con la información de sus empleados.
 
 **Solucion**:[Solucion punto numero siete](commands/join_farmacia_empleados.sql)
+
+# 8 - punto numero ocho
+Mostrar todos los medicamentos que tienen en el inventario las diferentes farmacias con su efecto terapéutico.
+
+**Solucion**:[Solucion punto numero ocho](commands/join_medicamento_terapeutico.sql)
+
