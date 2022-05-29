@@ -78,7 +78,7 @@ Mostrar los empleados con las enfermedades padecidas y la farmacia a la que pert
 
 **Solucion**:[Solucion punto numero once](commands/join_where_empleado.sql)
 
-# - punto numero doce 
+# 12 - punto numero doce 
 Mostrar en las farmacias de Medellín las que tienen empleados que han sufrido Influenza.
 
 **Solucion**:[Solucion punto numero doce](commands/join_where_enfermedades.sql)
