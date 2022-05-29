@@ -67,8 +67,14 @@ Mostrar los laboratorios que surten las farmacias de Medellín.
 
 **Solucion**:[Solucion punto numero nueve](commands/join_like_where_medellin.sql)
 
-# 10 - punto numero 10
+# 10 - punto numero diez
 Mostrar todas las farmacias que venden productos con la monodroga acetaminofén. 
 
 **Solucion**:[Solucion punto numero diezz](commands/join_farmacia_medicamento.sql)
+
+
+# 11 - punto numero once 
+Mostrar los empleados con las enfermedades padecidas y la farmacia a la que pertenece.
+
+**Solucion**:[Solucion punto numero once](commands/join_where_empleado.sql)
 
