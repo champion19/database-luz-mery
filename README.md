@@ -98,3 +98,9 @@ Mostrar las farmacias que venden medicamentos con monodrogas ibuprofeno y que ti
 Mostrar el número de farmacias por departamento.
 
 **Solucion**:[Solucion punto numero catorce](commands/join_group_departamento.sql)
+
+
+# 15 - punto numero quince
+Mostrar por cada medicamento la cantidad en existencia, y el número de laboratorios que venden cada medicamento.
+
+**Solucion**:[Solucion punto numero quince](commands/join_med_existencia.sql)
