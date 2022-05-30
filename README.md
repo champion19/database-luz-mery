@@ -104,3 +104,10 @@ Mostrar el número de farmacias por departamento.
 Mostrar por cada medicamento la cantidad en existencia, y el número de laboratorios que venden cada medicamento.
 
 **Solucion**:[Solucion punto numero quince](commands/join_med_existencia.sql)
+
+# 16 - punto numero dieciseis
+Mostrar el número de empleados por cada farmacia, para aquellas farmacias que tienen turnos nocturnos los días Lunes y Viernes y que el número de empleados sea mayor a 5.
+
+**Nota**:En esta consulta no hay coneccion para encontrar la cantidad de empleados con un numero mayor a 5
+
+**Solucion**:[Solucion punto numero dieciseis](commands/join_Where_empl_far.sql)
