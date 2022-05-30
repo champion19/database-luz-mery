@@ -53,33 +53,43 @@ Mostrar las farmacias y todas los medicamentos con acción terapéutica analgés
 **Solucion**:[Solucion punto numero seis](commands/join_inventario_analgesico.sql)
 
 # 7 - punto numero siete
+
 Mostrar el nombre del farmaceuta de cada farmacia con la información de sus empleados.
 
 **Solucion**:[Solucion punto numero siete](commands/join_farmacia_empleados.sql)
 
 # 8 - punto numero ocho
+
 Mostrar todos los medicamentos que tienen en el inventario las diferentes farmacias con su efecto terapéutico.
 
 **Solucion**:[Solucion punto numero ocho](commands/join_medicamento_terapeutico.sql)
 
 # 9 - punto numero nueve
+
 Mostrar los laboratorios que surten las farmacias de Medellín.
 
 **Solucion**:[Solucion punto numero nueve](commands/join_like_where_medellin.sql)
 
 # 10 - punto numero diez
-Mostrar todas las farmacias que venden productos con la monodroga acetaminofén. 
+
+Mostrar todas las farmacias que venden productos con la monodroga acetaminofén.
 
 **Solucion**:[Solucion punto numero diezz](commands/join_farmacia_medicamento.sql)
 
+# 11 - punto numero once
 
-# 11 - punto numero once 
 Mostrar los empleados con las enfermedades padecidas y la farmacia a la que pertenece.
 
 **Solucion**:[Solucion punto numero once](commands/join_where_empleado.sql)
 
-# 12 - punto numero doce 
+# 12 - punto numero doce
+
 Mostrar en las farmacias de Medellín las que tienen empleados que han sufrido Influenza.
 
 **Solucion**:[Solucion punto numero doce](commands/join_where_enfermedades.sql)
 
+# 13 - punto numero trece
+
+Mostrar las farmacias que venden medicamentos con monodrogas ibuprofeno y que tienen acciones analgésicas.
+
+**Solucion**:[Solucion punto numero trece](commands/join_medicamentos.sql)
