@@ -93,3 +93,8 @@ Mostrar en las farmacias de Medellín las que tienen empleados que han sufrido I
 Mostrar las farmacias que venden medicamentos con monodrogas ibuprofeno y que tienen acciones analgésicas.
 
 **Solucion**:[Solucion punto numero trece](commands/join_medicamentos.sql)
+
+# 14 - punto numero catorce
+Mostrar el número de farmacias por departamento.
+
+**Solucion**:[Solucion punto numero catorce](commands/join_group_departamento.sql)
