@@ -95,19 +95,30 @@ Mostrar las farmacias que venden medicamentos con monodrogas ibuprofeno y que ti
 **Solucion**:[Solucion punto numero trece](commands/join_medicamentos.sql)
 
 # 14 - punto numero catorce
+
 Mostrar el número de farmacias por departamento.
 
 **Solucion**:[Solucion punto numero catorce](commands/join_group_departamento.sql)
 
-
 # 15 - punto numero quince
+
 Mostrar por cada medicamento la cantidad en existencia, y el número de laboratorios que venden cada medicamento.
 
 **Solucion**:[Solucion punto numero quince](commands/join_med_existencia.sql)
 
 # 16 - punto numero dieciseis
+
 Mostrar el número de empleados por cada farmacia, para aquellas farmacias que tienen turnos nocturnos los días Lunes y Viernes y que el número de empleados sea mayor a 5.
 
 **Nota**:En esta consulta no hay coneccion para encontrar la cantidad de empleados con un numero mayor a 5
 
 **Solucion**:[Solucion punto numero dieciseis](commands/join_Where_empl_far.sql)
+
+
+
+# 17 - punto numero diecisiete
+Mostrar por cada laboratorio, el número de medicamentos que distribuyen, la cantidad que hay en existencias del total de medicamentos, el promedio de su precio y el valor total del inventario que hay,  para aquellos laboratorios de Antioquia y que la cantidad de medicamentos vendidos por el laboratorio sea mayor a 3.
+
+**Solucion**:[Solucion punto numero diecisiete](commands/join_med_lab_farmacia.sql)
+
+**nota**: en esta consulta para obtener la informacion de cuantos medicamentos se vendieron, no se conoce la forma adecuada para resolver el problema.
