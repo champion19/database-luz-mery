@@ -114,11 +114,10 @@ Mostrar el número de empleados por cada farmacia, para aquellas farmacias que t
 
 **Solucion**:[Solucion punto numero dieciseis](commands/join_Where_empl_far.sql)
 
-
-
 # 17 - punto numero diecisiete
-Mostrar por cada laboratorio, el número de medicamentos que distribuyen, la cantidad que hay en existencias del total de medicamentos, el promedio de su precio y el valor total del inventario que hay,  para aquellos laboratorios de Antioquia y que la cantidad de medicamentos vendidos por el laboratorio sea mayor a 3.
+
+Mostrar por cada laboratorio, el número de medicamentos que distribuyen, la cantidad que hay en existencias del total de medicamentos, el promedio de su precio y el valor total del inventario que hay, para aquellos laboratorios de Antioquia y que la cantidad de medicamentos vendidos por el laboratorio sea mayor a 3.
 
 **Solucion**:[Solucion punto numero diecisiete](commands/join_med_lab_farmacia.sql)
 
-**nota**: en esta consulta para obtener la informacion de cuantos medicamentos se vendieron, no se conoce la forma adecuada para resolver el problema.
+**nota**: en esta consulta para obtener la informacion de cuantos medicamentos se vendieron, no se conoce la forma adecuada para resolver el problema.EXISTE OTRA OPCION DE LA SOLUCION.
