@@ -121,3 +121,9 @@ Mostrar por cada laboratorio, el número de medicamentos que distribuyen, la can
 **Solucion**:[Solucion punto numero diecisiete](commands/join_med_lab_farmacia.sql)
 
 **nota**: en esta consulta para obtener la informacion de cuantos medicamentos se vendieron, no se conoce la forma adecuada para resolver el problema.EXISTE OTRA OPCION DE LA SOLUCION.
+
+# 18 - punto numero dieciocho
+
+Mostrar por cada monodroga la cantidad de medicamentos que la contienen, solo para aquellos medicamentos que la cantidad de monodroga sea mayor a 500 y que el laboratorio tenga como dueño una persona que en su apellido contenga “GIL”.
+
+**Solucion**:[Solucion punto numero dieciocho](commands/join_where_monoD_med_lab.sql)
